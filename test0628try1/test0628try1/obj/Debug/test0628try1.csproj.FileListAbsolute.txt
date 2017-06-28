@@ -1,0 +1,9 @@
+C:\temp\lab0628\test0628try1\test0628try1\bin\Debug\test0628try1.exe.config
+C:\temp\lab0628\test0628try1\test0628try1\bin\Debug\test0628try1.exe
+C:\temp\lab0628\test0628try1\test0628try1\bin\Debug\test0628try1.pdb
+C:\temp\lab0628\test0628try1\test0628try1\obj\Debug\test0628try1.csprojResolveAssemblyReference.cache
+C:\temp\lab0628\test0628try1\test0628try1\obj\Debug\test0628try1.Form1.resources
+C:\temp\lab0628\test0628try1\test0628try1\obj\Debug\test0628try1.Properties.Resources.resources
+C:\temp\lab0628\test0628try1\test0628try1\obj\Debug\test0628try1.csproj.GenerateResource.Cache
+C:\temp\lab0628\test0628try1\test0628try1\obj\Debug\test0628try1.exe
+C:\temp\lab0628\test0628try1\test0628try1\obj\Debug\test0628try1.pdb
